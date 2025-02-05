@@ -1,5 +1,16 @@
 # React + Vite
 
+visit site - https://sweet-genie-541b42.netlify.app/
+
+⿥ Authentication Credentials for Testing
+Customer Login:
+📩 Email: customer@support.com
+🔑 Password: customer123
+
+Agent Login:
+📩 Email: agent@support.com
+🔑 Password: agent12
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
