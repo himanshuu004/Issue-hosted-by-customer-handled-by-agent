@@ -9,9 +9,13 @@ import AgentDashboard from './Pages/AgentDashboard'
 const App = () => {
   return (
     <div>
+<<<<<<< HEAD
   
 
       <Routes>
+=======
+     <Routes>
+>>>>>>> faeb05d (updation)
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/create-ticket" element={<CreateTicket />} />
